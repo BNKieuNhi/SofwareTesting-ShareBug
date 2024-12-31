@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS - Add module</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b8a0ed35-0e9d-4717-b671-a7d55d95a5f7</testSuiteGuid>
+   <testCaseLink>
+      <guid>0395c47b-685d-401e-bc29-87a9d355ec5d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Add module/TC1 - Add module</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>feba9a25-3342-45d9-acac-92eea726780e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Test Module</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>feba9a25-3342-45d9-acac-92eea726780e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>53db42e9-37b5-436a-b06f-d4623ac7e2fb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>feba9a25-3342-45d9-acac-92eea726780e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>9dcee250-4dd4-4aec-8487-9de3b3fc0e24</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>feba9a25-3342-45d9-acac-92eea726780e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>module</value>
+         <variableId>e023a6bc-eddc-4d89-bb1a-79e458e8cf44</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>feba9a25-3342-45d9-acac-92eea726780e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>module name</value>
+         <variableId>b91110f4-6df3-48f6-b346-4a4ce3f58a04</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a8c6b0d4-7eaa-4f10-ab66-89e73360d0d2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Add module/TC2 - Add module</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>21bc9086-6ba8-45ac-8a5f-3a82661cea9f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Test Module</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>21bc9086-6ba8-45ac-8a5f-3a82661cea9f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>6e4f3370-1b77-4b00-a1bb-19ff245ff43e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>21bc9086-6ba8-45ac-8a5f-3a82661cea9f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>905c91c2-03d7-414c-b418-3a64bd184dd1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>21bc9086-6ba8-45ac-8a5f-3a82661cea9f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>module</value>
+         <variableId>626bf852-b781-4396-ac00-540796c05c7f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>21bc9086-6ba8-45ac-8a5f-3a82661cea9f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>module name</value>
+         <variableId>82b59061-3588-4fec-94b7-a546ed201938</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

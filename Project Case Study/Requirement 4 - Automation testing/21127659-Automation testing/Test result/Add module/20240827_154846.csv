@@ -1,0 +1,38 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS - Add module,Chrome 127.0.0.0,,,27-08-2024 15:48:55,27-08-2024 16:51:09,1h - 2m - 14.385s,FAILED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 15:48:55,27-08-2024 15:51:47,2m - 51.278s,PASSED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 15:54:29,27-08-2024 15:54:58,28.749s,FAILED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 15:58:12,27-08-2024 16:01:37,3m - 25.427s,FAILED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:01:37,27-08-2024 16:04:21,2m - 43.587s,PASSED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:04:21,27-08-2024 16:07:03,2m - 41.487s,PASSED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:07:03,27-08-2024 16:09:44,2m - 41.830s,PASSED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:09:44,27-08-2024 16:12:28,2m - 43.591s,PASSED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:12:28,27-08-2024 16:15:13,2m - 45.180s,PASSED
+,,,,,,,
+Test Cases/Add module/TC1 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:18:00,27-08-2024 16:20:42,2m - 41.750s,FAILED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:20:42,27-08-2024 16:23:21,2m - 39.598s,PASSED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:23:21,27-08-2024 16:26:06,2m - 44.959s,PASSED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:29:15,27-08-2024 16:32:27,3m - 11.563s,FAILED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:32:27,27-08-2024 16:35:11,2m - 44.412s,PASSED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:35:11,27-08-2024 16:37:51,2m - 40.264s,PASSED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:37:51,27-08-2024 16:40:31,2m - 40.036s,PASSED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:40:31,27-08-2024 16:43:15,2m - 43.682s,PASSED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:43:15,27-08-2024 16:45:54,2m - 39.173s,PASSED
+,,,,,,,
+Test Cases/Add module/TC2 - Add module,Chrome 127.0.0.0,,,27-08-2024 16:48:30,27-08-2024 16:51:06,2m - 35.699s,FAILED

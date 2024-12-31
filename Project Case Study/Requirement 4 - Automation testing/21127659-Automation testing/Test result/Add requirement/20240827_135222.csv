@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS - Add requirement,Chrome 127.0.0.0,,,27-08-2024 13:52:34,27-08-2024 14:25:42,33m - 8.354s,FAILED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 13:52:34,27-08-2024 13:54:50,2m - 16.283s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 13:57:36,27-08-2024 13:58:03,26.977s,FAILED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 13:58:03,27-08-2024 14:00:16,2m - 12.297s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:02:56,27-08-2024 14:05:36,2m - 40.358s,FAILED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:05:36,27-08-2024 14:07:49,2m - 12.551s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:07:49,27-08-2024 14:10:02,2m - 13.147s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:10:02,27-08-2024 14:12:18,2m - 16.019s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:12:18,27-08-2024 14:14:30,2m - 12.127s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:14:30,27-08-2024 14:16:41,2m - 11.412s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:16:41,27-08-2024 14:18:55,2m - 13.632s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:18:55,27-08-2024 14:21:17,2m - 21.676s,PASSED
+,,,,,,,
+Test Cases/Add requirement/TC - Add requirement,Chrome 127.0.0.0,,,27-08-2024 14:23:28,27-08-2024 14:25:38,2m - 10.129s,FAILED

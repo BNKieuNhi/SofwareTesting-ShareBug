@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Auto testing</name>
+   <tag></tag>
+   <elementGuidId>856c078f-c37b-4e22-bc54-53e60c5f9567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='loadRequirementDetails(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mx-2.my-auto.text-dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Auto testing&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>58106139-4342-44d0-b397-a0791bcef060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>876c0529-3fc6-4f29-b0e6-260f525c2f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-2 my-auto text-dark</value>
+      <webElementGuid>7a6a38ce-afed-4960-970a-033f99b7c1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>3ee040f3-7625-422d-8f8e-dc65b5cafe8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#viewRequirement</value>
+      <webElementGuid>bbcef6e5-5a48-4bf3-8168-4e666564b1c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>loadRequirementDetails(this)</value>
+      <webElementGuid>3af472ee-c58f-4677-9e3a-880546fe17fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-project-id</name>
+      <type>Main</type>
+      <value>666011d01cc6e634de0ff711</value>
+      <webElementGuid>47b9bf8c-334b-42f9-88c8-e6655807bc07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>66cc64482cf217c5cf5c4aec</value>
+      <webElementGuid>bcf6328e-2240-4633-8fc9-1e29e18ecd10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-release-id</name>
+      <type>Main</type>
+      <value>66601b671ef4a55f282208d6</value>
+      <webElementGuid>d7224573-921f-4ce3-ac4c-6e98024b4fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>Bug</value>
+      <webElementGuid>48628fff-b8ca-4025-965f-19911776e185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-description</name>
+      <type>Main</type>
+      <value>Auto testing</value>
+      <webElementGuid>8d37cfa4-4f20-4d99-885a-4bdfceedbf9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-created-at</name>
+      <type>Main</type>
+      <value>August 26, 2024 at 6:17 PM</value>
+      <webElementGuid>71643a70-f0e4-4751-bed0-9bcf3b76a8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-updated-at</name>
+      <type>Main</type>
+      <value>August 26, 2024 at 6:17 PM</value>
+      <webElementGuid>91f6354c-9199-4155-a769-2788acdfca22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-assignee-name</name>
+      <type>Main</type>
+      <value>Unknown User</value>
+      <webElementGuid>64b7894f-4dc3-4084-92f4-bb04911e6303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-assignee-email</name>
+      <type>Main</type>
+      <value>Unknown Email</value>
+      <webElementGuid>f4fb5a09-57a9-4203-9e3b-789b7d8ff6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>20ffadd6-f21e-4a31-b032-bdfd6374c080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                          Auto testing
+                        </value>
+      <webElementGuid>64c040e5-999e-4a58-81e9-df60f0209d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/main[1]/div[@class=&quot;content px-3&quot;]/div[@class=&quot;container mx-auto bg-white py-3 h-100 w-100 mb-2&quot;]/div[@class=&quot;d-flex mt-3 justify-content-between w-100&quot;]/div[@class=&quot;col-9 test-cases-card ps-3 border border-0&quot;]/div[@class=&quot;card bg-body-tertiary h-100 border border-0&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;below&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[1]/td[@class=&quot;bg-body-tertiary align-middle&quot;]/a[@class=&quot;mx-2 my-auto text-dark&quot;]</value>
+      <webElementGuid>4fe4db06-eb20-46c0-bfd6-3dc5c867daa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='loadRequirementDetails(this)']</value>
+      <webElementGuid>78c49e3e-717d-41a1-a841-c9a853e9efe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Auto testing')]</value>
+      <webElementGuid>e7ca7ff7-47e6-42ee-a071-9000142047eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::a[1]</value>
+      <webElementGuid>bcfd22f6-1558-4aae-9fa8-3ad15cb4fcf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/following::a[1]</value>
+      <webElementGuid>9742ded7-96d0-43fa-892d-da17236abbf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Requirement'])[2]/preceding::a[35]</value>
+      <webElementGuid>05a4e569-8b16-40ea-92e0-8825ebe4c723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Release'])[1]/preceding::a[35]</value>
+      <webElementGuid>14d0857a-ad5e-4f03-a593-fa50e25424b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Auto testing']/parent::*</value>
+      <webElementGuid>373f20e8-0315-4974-8855-2073757908da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[17]</value>
+      <webElementGuid>e59d7abb-792a-4ce2-9d9a-54647986989a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>2ce5e243-9f20-4fc8-9862-c6ae99bfa948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @title = 'View' and (text() = '
+                          Auto testing
+                        ' or . = '
+                          Auto testing
+                        ')]</value>
+      <webElementGuid>ce7fcc93-0cc3-4fba-bed1-dbde15f37f00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

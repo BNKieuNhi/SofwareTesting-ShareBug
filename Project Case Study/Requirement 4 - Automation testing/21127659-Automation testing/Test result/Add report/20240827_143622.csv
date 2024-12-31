@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS - Add report,Chrome 127.0.0.0,,,27-08-2024 14:36:30,27-08-2024 15:06:58,30m - 27.549s,FAILED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 14:36:31,27-08-2024 14:39:02,2m - 31.804s,PASSED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 14:41:15,27-08-2024 14:43:30,2m - 15.028s,FAILED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 14:46:23,27-08-2024 14:46:47,24.167s,FAILED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 14:46:47,27-08-2024 14:49:14,2m - 27.706s,PASSED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 14:49:14,27-08-2024 14:51:41,2m - 26.937s,PASSED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 14:51:41,27-08-2024 14:54:22,2m - 40.295s,PASSED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 14:54:22,27-08-2024 14:56:49,2m - 27.368s,PASSED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 14:59:37,27-08-2024 15:02:24,2m - 47.647s,FAILED
+,,,,,,,
+Test Cases/Add report/TC - Add report,Chrome 127.0.0.0,,,27-08-2024 15:04:38,27-08-2024 15:06:56,2m - 17.201s,FAILED

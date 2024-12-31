@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1 - Add module</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3c513e1-24ed-4573-b8b0-6521d43cbc96</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53db42e9-37b5-436a-b06f-d4623ac7e2fb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9dcee250-4dd4-4aec-8487-9de3b3fc0e24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e023a6bc-eddc-4d89-bb1a-79e458e8cf44</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b91110f4-6df3-48f6-b346-4a4ce3f58a04</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'123@1234'</defaultValue>
+      <description></description>
+      <id>53db42e9-37b5-436a-b06f-d4623ac7e2fb</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>9dcee250-4dd4-4aec-8487-9de3b3fc0e24</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Select Module'</defaultValue>
+      <description></description>
+      <id>e023a6bc-eddc-4d89-bb1a-79e458e8cf44</id>
+      <masked>false</masked>
+      <name>module</name>
+   </variable>
+   <variable>
+      <defaultValue>'Automation testing'</defaultValue>
+      <description></description>
+      <id>b91110f4-6df3-48f6-b346-4a4ce3f58a04</id>
+      <masked>false</masked>
+      <name>moduleName</name>
+   </variable>
+</TestCaseEntity>

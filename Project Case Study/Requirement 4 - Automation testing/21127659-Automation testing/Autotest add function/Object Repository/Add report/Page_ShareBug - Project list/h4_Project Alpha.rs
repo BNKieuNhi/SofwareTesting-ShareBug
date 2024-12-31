@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Project Alpha</name>
+   <tag></tag>
+   <elementGuidId>3c3a1e1a-c383-4d0b-8c3d-f14921387216</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cards-wrapper-cf']/div[5]/a/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Project Alpha&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>ad0cf58f-e91e-4148-abdd-c74677c343b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project Alpha</value>
+      <webElementGuid>e9dccee2-695b-4343-ab90-17007071013c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cards-wrapper-cf&quot;)/div[@class=&quot;card grid-view&quot;]/a[1]/div[@class=&quot;card-header bg-danger text-bg-danger&quot;]/div[@class=&quot;card-project-name&quot;]/h4[1]</value>
+      <webElementGuid>daace8ae-2ea9-4ab0-8065-b8e86223a9e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cards-wrapper-cf']/div[5]/a/div/div/h4</value>
+      <webElementGuid>0bfc177f-f3f0-41a7-b4d0-64519b72aaef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assgin User'])[4]/following::h4[1]</value>
+      <webElementGuid>985d2bc0-c76f-430b-8271-53df4af8ce38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Issues'])[4]/following::h4[1]</value>
+      <webElementGuid>0fa268c8-2629-4d21-bd8d-5a807e7d22c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created on'])[5]/preceding::h4[1]</value>
+      <webElementGuid>8e7c1355-1d79-412e-b6f2-56749c107acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by'])[5]/preceding::h4[1]</value>
+      <webElementGuid>74cd6d49-a5ba-4ed8-819b-024bbf9d4bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Project Alpha']/parent::*</value>
+      <webElementGuid>911fbedb-5634-46c4-8ae3-2ba1dc2289a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/div/div/h4</value>
+      <webElementGuid>752abede-438a-47d8-b61d-d426dd08b366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Project Alpha' or . = 'Project Alpha')]</value>
+      <webElementGuid>9aec284f-07c7-4cb4-919e-8004a1770d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cards-wrapper-cf']/div[6]/a/div/div/h4</value>
+      <webElementGuid>15e5b727-47ad-4437-a793-cb2559e98b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assgin User'])[5]/following::h4[1]</value>
+      <webElementGuid>689882bd-9e1e-4dd4-8339-a06e4b60ed43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Issues'])[5]/following::h4[1]</value>
+      <webElementGuid>5ed15e03-1b50-4023-a345-db73885ad807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created on'])[6]/preceding::h4[1]</value>
+      <webElementGuid>e5d2836a-86e3-4676-b7fa-ffcfa511dfdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created by'])[6]/preceding::h4[1]</value>
+      <webElementGuid>11dcc822-26ca-46c8-bb0c-be6eee431bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a/div/div/h4</value>
+      <webElementGuid>eb6cca05-f8bb-47e3-a60a-0708727ba087</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
